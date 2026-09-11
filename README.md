@@ -5,7 +5,7 @@
 <!--https://readme-typing-svg.herokuapp.com/demo/?duration=4000&pause=700&color=F5C2E7&center=true&vCenter=true&random=true&width=900&lines=Big+Fat+Nerd+Since+2022+%7C+Probably+Longer+Than+That+If+We%27re+Being+Honest;I+Hate+JavaScript+Frameworks!;I+Have+Sooo+Many+Ideas%2C+But+Not+Enough+Motivation+To+Do+Them;Fuck+My+Chud+Life;I+Use+Arch%2C+btw-->
 
 <h2 align="center">About Me</h2>
-<p height="180em">Student at <a href="https://www.arcada.fi/index%2Ephp/en"><img src="https://raw.githubusercontent.com/equmaq/equmaq/refs/heads/main/Arcada%20logotype/SVG/Arcada_Logo_White.svg" height="16" ></a> University Of Applied Sciences</p>
+<p>Student at Arcada University Of Applied Sciences</p>
 
 
 <h2 align="center">Github Stats</h2>
